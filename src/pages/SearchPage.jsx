@@ -8,7 +8,7 @@ export const SearchPage = () => {
   const [allSongs, setSongs] = useState([]);
   const [flag, setFlag] = useState(false);
   const [song, setPlayerSong] = useState(null);
-  const [loading, setLoading] = useState(false);  
+  const [loading, setLoading] = useState(false);
 
   const loadDefaultSongs = async () => {
     setLoading(true);
@@ -50,16 +50,17 @@ export const SearchPage = () => {
       {flag ? (
         <Player song={song} fn={togglePlayer} />) : (
         <>
-          <div className="row mb-3">
+          <div className="row g-2 align-items-end mb-3">
             <div className="col-12 col-md-10">
               <Search fn={getArtistName} allSongs={allSongs} />
             </div>
-            <div className="col-12 col-md-2 text-end">
-              <button className="btn btn-sm btn-danger w-100 mt-2 mt-md-0" onClick={clearSearch}>
-                Clear
-              </button>
+            <div className="col-12 col-md-2 text-md-end text-center">
+              <button
+                className="btn btn-danger w-100 mt-2 mt-md-0"
+                onClick={clearSearch} > Clear </button>
             </div>
           </div>
+
 
           {loading ? (
             <div className="d-flex justify-content-center my-5">
@@ -72,6 +73,7 @@ export const SearchPage = () => {
           )}
         </>
       )}
+      
     </div>
   );
 };
