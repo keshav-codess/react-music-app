@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 - **npm** (Node Package Manager)
 
 ---
-### 📦 Installation
+## 🛠️ Installation
 
 Follow these steps to get the app up and running locally:
 
@@ -69,10 +69,13 @@ npm install
 
 # 4. Start the development server
 npm start
+```
+
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
+```
 musicapp/
 ├── public/
 │   └── index.html
@@ -80,13 +83,14 @@ musicapp/
 │   ├── components/
 │   │   ├── Search.jsx
 │   │   ├── Songs.jsx
-│   │   ├── Player.jsx
+│   │   └── Player.jsx
 │   ├── services/
 │   │   └── api-client.js
 │   ├── pages/
 │   │   └── SearchPage.jsx
 │   ├── App.js
 │   └── index.js
+```
 
 ---
 
