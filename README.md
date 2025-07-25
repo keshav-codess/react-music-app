@@ -53,7 +53,6 @@ Make sure you have the following installed on your machine:
 - **npm** (Node Package Manager)
 
 ---
-
 ### 📦 Installation
 
 Follow these steps to get the app up and running locally:
@@ -70,8 +69,6 @@ npm install
 
 # 4. Start the development server
 npm start
-
-
 ---
 
 📁 Project Structure
