@@ -9,6 +9,8 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
   <img src="https://raw.githubusercontent.com/keshav-codess/react-music-app/refs/heads/main/BeatBliss-banner.jpg"
        alt="BeatBliss Banner" width="300" style="border-radius: 12px;" />
 </p>
+
+
 ---
 
 ## 🚀 Live Demo
