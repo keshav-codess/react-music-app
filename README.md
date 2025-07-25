@@ -3,7 +3,7 @@
 Welcome to **BeatBliss**, your ultimate music companion built with **React**!  
 Search for your favorite artists, explore Bollywood hits, and play song previews — all in a sleek, responsive interface.
 
-![BeatBliss Banner](https://user-images.githubusercontent.com/your-github-id/banner-placeholder.png) <!-- Optional: Add a banner image -->
+![BeatBliss Banner](https://raw.githubusercontent.com/keshav-codess/react-music-app/refs/heads/main/BeatBliss-banner.jpg) 
 
 ---
 
@@ -110,7 +110,6 @@ musicapp/
 
 ---
 
----
 Crafted with passion & React ⚛️ by [Keshav](https://github.com/keshav-codess)
 
 
