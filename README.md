@@ -73,6 +73,7 @@ npm start
 
 
 ---
+
 📁 Project Structure
 
 musicapp/
