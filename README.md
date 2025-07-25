@@ -3,7 +3,7 @@
 Welcome to **BeatBliss**, your ultimate music companion built with **React**!  
 Search for your favorite artists, explore Bollywood hits, and play song previews — all in a sleek, responsive interface.
 
-![BeatBliss Banner](<img src="assets/BeatBliss-banner.jpg" width="300" />) 
+![BeatBliss Banner](<img src="musicapp/assets/BeatBliss-banner.jpg" width="300" />) 
 
 ---
 
