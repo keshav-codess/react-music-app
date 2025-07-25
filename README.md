@@ -75,7 +75,10 @@ npm start
 
 ## 📁 Project Structure
 
-```
+<details>
+<summary>Click to expand</summary>
+
+<pre>
 musicapp/
 ├── public/
 │   └── index.html
@@ -90,7 +93,10 @@ musicapp/
 │   │   └── SearchPage.jsx
 │   ├── App.js
 │   └── index.js
-```
+</pre>
+
+</details>
+
 
 ---
 
