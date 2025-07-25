@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/keshav-codess/react-music-app/refs/heads/main/BeatBliss-banner.jpg"
-       alt="BeatBliss Banner" width="600" style="border-radius: 12px;" />
+       alt="BeatBliss Banner" width="300" style="border-radius: 12px;" />
 </p>
 
 # 🎵 BeatBliss - React Music App
