@@ -9,7 +9,8 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live site](https://keshav-codess.github.io/react-music-app)
+🌐 [Click here to view the live site](<img src="https://raw.githubusercontent.com/keshav-codess/your-repo-name/main/BeatBliss-banner.jpg" alt="BeatBliss Banner" width="600"/>
+)
 
 ---
 
