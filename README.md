@@ -45,22 +45,32 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
 
 ## 🛠️ Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
 
-- Node.js (>=14)
-- npm
+Make sure you have the following installed on your machine:
 
-### Installation
+- **Node.js** (v14 or above) 👉 [Download Node.js](https://nodejs.org/)
+- **npm** (Node Package Manager)
+
+---
+
+### 📦 Installation
+
+Follow these steps to get the app up and running locally:
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/keshav-codess/react-music-app.git
+
+# 2. Navigate into the project folder
 cd react-music-app
+
+# 3. Install dependencies
 npm install
+
+# 4. Start the development server
 npm start
 
-Deployment
-
-npm run deploy
 
 ---
 📁 Project Structure
