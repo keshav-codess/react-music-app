@@ -33,7 +33,7 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](<img src="assets/Desktop.jpg" width="300" />) | ![Mobile](https://user-images.githubusercontent.com/your-github-id/mobile-view.png) |
+| ![Desktop](<img src="assets/Desktop.png" width="300" />) | ![Mobile](https://user-images.githubusercontent.com/your-github-id/mobile-view.png) |
 
 ---
 
