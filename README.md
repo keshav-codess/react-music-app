@@ -9,7 +9,7 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
 
 ## 🚀 Live Demo
 
-🌐 [Check it out on GitHub Pages](https://keshav-codess.github.io/react-music-app)
+🌐 [Click here to view the live site](https://keshav-codess.github.io/react-music-app)
 
 ---
 
@@ -100,24 +100,23 @@ musicapp/
 
 ---
 
-## 📌 TODOs
+## 🧠 Future Ideas
 
 - 🎯 Add favorites or playlist feature  
-- 🌍 Switch to Spotify API  
-- 🎶 Add full-length song streaming (if licensed)  
-- 💬 Suggestions/Recommendations tab  
+- 🌍 Switch between Dark and Light theme
+- 🎧 Enable full-length song streaming  
+- 💬 Suggestions/Recommendations tab
+- 🎤 Add voice search functionality
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you would like to change.
+<div align="center">
+  🎵 Made with love and code by <a href="https://github.com/keshav-codess"><strong>Keshav</strong></a>
+</div>
 
----
 
-## 🧑‍💻 Author
 
-**Keshav**  
-🎓 BTech CSE (Cybersecurity & Privacy)  
-🔗 [GitHub Profile](https://github.com/keshav-codess)
+
+
+⭐ If you enjoyed this project, please give it a star!
