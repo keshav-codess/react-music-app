@@ -110,11 +110,8 @@ musicapp/
 
 ---
 
-
-<div align="center">
-  🎵 Made with love and code by <a href="https://github.com/keshav-codess"><strong>Keshav</strong></a>
-</div>
-
+---
+Crafted with passion & React ⚛️ by [Keshav](https://github.com/keshav-codess)
 
 
 
