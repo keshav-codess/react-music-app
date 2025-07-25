@@ -29,7 +29,8 @@ Search for your favorite artists, explore Bollywood hits, and play song previews
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](https://user-images.githubusercontent.com/your-github-id/desktop-view.png) | ![Mobile](https://user-images.githubusercontent.com/your-github-id/mobile-view.png) |
+| ![Desktop](<img src="assets/BeatBliss-banner.jpg" width="300" />
+) | ![Mobile](https://user-images.githubusercontent.com/your-github-id/mobile-view.png) |
 
 ---
 
