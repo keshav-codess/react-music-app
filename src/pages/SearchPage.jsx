@@ -8,10 +8,13 @@ export const SearchPage = () => {
   const [allSongs, setSongs] = useState([]);
   const [flag, setFlag] = useState(false);
   const [song, setPlayerSong] = useState(null);
+  const [loading, setLoading] = useState(false);  
 
   const loadDefaultSongs = async () => {
+    setLoading(true);
     const defaultSongs = await getSongs('Bollywood');
     setSongs(defaultSongs);
+    setLoading(false);
   };
 
   useEffect(() => {
@@ -24,7 +27,9 @@ export const SearchPage = () => {
   };
 
   const getArtistName = async (artistName) => {
+    setLoading(true);
     setSongs(await getSongs(artistName));
+    setLoading(false);
   };
 
   const clearSearch = () => {
@@ -43,8 +48,7 @@ export const SearchPage = () => {
       </div>
 
       {flag ? (
-        <Player song={song} fn={togglePlayer} />
-      ) : (
+        <Player song={song} fn={togglePlayer} />) : (
         <>
           <div className="row mb-3">
             <div className="col-12 col-md-10">
@@ -57,7 +61,15 @@ export const SearchPage = () => {
             </div>
           </div>
 
-          <Songs fn={togglePlayer} allSongs={allSongs} />
+          {loading ? (
+            <div className="d-flex justify-content-center my-5">
+              <div className="spinner-border text-primary" role="status">
+                <span className="visually-hidden">Loading...</span>
+              </div>
+            </div>
+          ) : (
+            <Songs fn={togglePlayer} allSongs={allSongs} />
+          )}
         </>
       )}
     </div>
